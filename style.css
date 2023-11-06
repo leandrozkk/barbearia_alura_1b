@@ -1,8 +1,16 @@
 body{
     background:#cccc;
+    {
+#banner{
+  width:100;
 }
-p{
+.principal{
+    background: #cccccc;
+    padding
+}
+p {
     text-align: center;
+}
 }
 em strong{
     color:rgb(255, 0, 123)
